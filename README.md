@@ -1,2 +1,2 @@
-# PRZM3-Public
-Just the executables from the Canadian version of PRZM 3.
+# PWC3.1-Public
+Executables, source files, and documentation from the Canadian version of PWC-3.1.

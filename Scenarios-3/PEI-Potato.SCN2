@@ -1,0 +1,78 @@
+PEI-Potato
+PEI.wea
+40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******** start of PRZM information ******************
+False, False, False
+1
+True,
+10,6,30,9,11,10,45,90,60,0.1,1,1,0 
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,
+,,,
+1.0,0,10,
+*** irrigation information start ***
+0
+0,0,0,
+False,,
+*** spare line for expansion
+*** spare line for expansion
+*** Soil Information ***
+0.25,1.2,0.5,
+1,4,
+*** Horizon Info *******
+6,
+10,10,20,20,30,410,
+1.32,1.05,1.33,1.33,1.62,1.76,
+0.34,0.39,0.36,0.36,0.28,0.28,
+0.04,0.14,0.12,0.12,0.19,0.19,
+0.4,2.55,0.7,0.1,0.01,0.01,
+100,5,10,4,6,41,
+Spare Line (formerly sand)
+Spare Line (formerly clay)
+*** Horizon End, Temperature Start ********
+0.2,5.4,
+True
+***spare line for expansion
+***spare line for expansion
+*** Erosion & Curve Number Info **********
+3
+1,10,11,
+1,6,10,
+89,87,89,
+0.5,0.5,0.5,
+Spare, old mannings
+8.0,1.4,0.19,
+0.1,0,1.0,
+False
+,,,,,
+5.0
+False

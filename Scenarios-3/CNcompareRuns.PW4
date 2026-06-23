@@ -1,0 +1,102 @@
+PWC 3 Input File, Version 1
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Pesticides - Authorization_ EAD-DEE (PMRA - EAD) - Scenarios-3\
+CNcompareRuns
+C:\Data\Misc\Weather3\
+1.0,
+True, False, False, False, True,
+1,
+300,,,
+1,1,1,
+,,,
+,,,
+,,,
+,1,
+100,,,,,
+20,,,
+100,,,,,
+20,,,
+,,,,,
+40,,,
+1000,,,,,
+100,,,,,True,
+20,,,
+,,,,,
+0.5,0.5,0.5,
+175,,,
+1e-10,,,
+100,,,
+9.41E-12,,,
+3000,,,
+50000,,,
+2,
+False,
+True,10.0,100.0,0.0,
+False,,,
+1,
+1,"AllScenarios",
+1,
+1,
+,1,1,4.0,0.0,15,0,1,0,
+False,,,
+False,,,,,
+21
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\AB-South-Sugarbeet.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\BC-Coastal-GW.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\BC-Coastal-Rasp.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\BC-Interior-Apple.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\BC-Interior-GW.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\MB-Potato.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\MB-Wheat.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\NS-Apple.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\NS-GW.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\ON-Central-Apple.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\ON-Central-GW.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\ON-South-Grape.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\ON-West-Corn.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\ON-West-GW.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\Peace-River-Barley.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\PEI-GW.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\PEI-Potato.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\QC-West-Apple.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\QC-West-Corn.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\QC-West-GW.SCN2
+C:\Users\IKENNEDY\OneDrive - HC-SC PHAC-ASPC\Scenarios-3\SK-South-Wheat.SCN2
+False,
+,
+Mitigations (flag to make older versions still readable)
+1.0,1.0,1.0,
+3,
+,
+,
+,
+,
+,
+True,
+False,True,False,False,False
+0,
+False,
+False,
+False,
+False,
+False,
+False,
+False,,
+False,,,
+False
+False,,,
+False,
+False,
+False,
+False,
+False,
+False,,
+False,
+False,
+False,
+False,
+holder for future expansion,
+holder for future expansion,
+holder for future expansion,
+holder for future expansion,
+False,
+0,

@@ -1,0 +1,78 @@
+AB-South-Sugarbeet
+AB-South.wea
+40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******** start of PRZM information ******************
+False, False, False
+1
+True,
+10,5,1,10,2,10,100,95,60,0.2,1,1,0 
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,
+,,,
+1.0,0,10,
+*** irrigation information start ***
+0
+0,0,0,
+False,,
+*** spare line for expansion
+*** spare line for expansion
+*** Soil Information ***
+0.24,0.34,0.5,
+3,1,
+*** Horizon Info *******
+6,
+10,10,20,20,30,410,
+1.4,1.5,1.5,1.6,1.6,1.6,
+0.18,0.16,0.16,0.13,0.13,0.13,
+0.09,0.09,0.08,0.06,0.06,0.06,
+1,0.5,0.3,0.1,0.1,0.1,
+100,5,10,4,6,41,
+Spare Line (formerly sand)
+Spare Line (formerly clay)
+*** Horizon End, Temperature Start ********
+0.2,5.6,
+True
+***spare line for expansion
+***spare line for expansion
+*** Erosion & Curve Number Info **********
+3
+1,10,2,
+1,5,10,
+89,87,89,
+0.5,0.42,0.5,
+Spare, old mannings
+8.0,1.4,0.19,
+0.1,0,1.0,
+False
+,,,,,
+5.0
+False

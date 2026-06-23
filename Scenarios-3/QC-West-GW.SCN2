@@ -1,0 +1,78 @@
+QC-West-GW
+QC-West.wea
+40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******** start of PRZM information ******************
+False, False, False
+1
+True,
+1,5,9,5,14,10,100.0,60,100.0,0.25,3,1,0 
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,
+,,,
+1.0,0,13.0,
+*** irrigation information start ***
+0
+0,0,0,
+False,50,
+*** spare line for expansion
+*** spare line for expansion
+*** Soil Information ***
+0.19949,0.19136,1.0,
+3,1.0,
+*** Horizon Info *******
+8,
+10.0,10.0,20.0,20.0,20.0,20.0,100.0,100.0,
+1.35,1.35,1.455,1.6,1.6,1.6,1.6,1.6,
+0.335,0.335,0.31299999999999994,0.265,0.25375,0.2525,0.26,0.396,
+0.06,0.06,0.06,0.045,0.03,0.03,0.03,0.03,
+2.1,2.1,2.9500000000000006,2.9,3.8,1.7000000000000002,0.2,0.2,
+2,2,1,1,1,1,2,2,
+Spare Line (formerly sand)
+Spare Line (formerly clay)
+*** Horizon End, Temperature Start ********
+0.2,6.4174175884350015,
+True
+***spare line for expansion
+***spare line for expansion
+*** Erosion & Curve Number Info **********
+3
+1,1,14,
+1,5,10,
+10.0,10.0,10.0,
+0.02,0.02,0.02,
+Spare, old mannings
+8.0,1.4,0.19,
+0.1,0,1.0,
+False
+,,,,,
+5.0
+False
